@@ -1,2 +1,0 @@
-C:\Users\user\source\repos\Массивы\Массивы\obj\Debug\Массивы.csprojAssemblyReference.cache
-C:\Users\user\source\repos\Массивы\Массивы\obj\Debug\Массивы.csproj.CoreCompileInputs.cache
